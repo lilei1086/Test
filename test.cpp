@@ -4,6 +4,8 @@ using namespace std;
 
 int main( int argc, char* argv[] )
 {
-cout << "HelloOKBBSE.\r"<< " World.\n";
+cout << "Bababooey~"<<endl;
+cout << "\rHelloOKBBSE.\n" << " World.\n";
+cout << "1234\r" << "000\n";
 return 0;
 }
